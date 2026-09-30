@@ -1,4 +1,4 @@
-![Locka](lockA_blue.png)
+![Locka](Assets/lockA_blue.png)
 
 # LockA Medical Passport - To Democratize Healthcare
 
